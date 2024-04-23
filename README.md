@@ -26,8 +26,8 @@ for this purpose.
 
 
 ## OUTPUT:
-##### Developed by:Janani.V.S
-##### REgistor no:212222230050
+## Developed by:Janani.V.S
+## REgistor no:212222230050
 
 ![output1](https://github.com/Shrruthilaya-Gangadaran/WDM_EXP9/assets/93427705/f6dcdea3-d0f8-4608-8dc3-a91dfc102586)
 ![output2](https://github.com/Shrruthilaya-Gangadaran/WDM_EXP9/assets/93427705/ffb04e76-3ac3-4320-9c01-f7455929a03e)
